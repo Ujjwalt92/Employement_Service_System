@@ -68,7 +68,7 @@ Spring,jsp,jsbc
  
  Linkedin-https://www.linkedin.com/in/pranit-dhengale-1477a7221
  
- Github-https://github.com/pranit8685
+ Github-(https://github.com/Ujjwalt92/Optical_shop_management)
  
  
  
